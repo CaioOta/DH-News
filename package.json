@@ -1,0 +1,25 @@
+{
+  "name": "dh-news",
+  "version": "1.0.0",
+  "description": "exercicio do Playground DH",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioOta/DH-News.git"
+  },
+  "keywords": ["express","nodejs"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioOta/DH-News/issues"
+  },
+  "homepage": "https://github.com/CaioOta/DH-News#readme",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
